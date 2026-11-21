@@ -1,0 +1,19 @@
+{
+  "name": "Rishi Music - Personal Audio Station",
+  "short_name": "Rishi Music",
+  "description": "Your personal offline music player.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#08090d",
+  "theme_color": "#1d72fe",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
